@@ -1,0 +1,33 @@
+.row{
+    width: 600px;
+    height: 300px;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.col{
+    background-color: chartreuse;
+    height: 200px;
+    width: 100px;
+    border: solid 1px black;
+}
+/* }space-evently
+ /* space around */
+ /* flex end
+ flex start
+ flex end
+  */
+.c1{
+    background-color: chocolate;
+}
+.c2{
+    background-color: cornsilk;
+}
+.c3{
+    background-color: darkkhaki;
+
+}
+.c4{
+    background-color: darkslategrey;
+}

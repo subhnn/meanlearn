@@ -1,0 +1,54 @@
+.parent{
+    border: 1px solid black;
+    height: 400px;
+    width: 660px;
+    background-color: burlywood;
+    position: relative;
+}
+.child{
+    border: solid 1px black;
+    height: 394px;
+    width: 115px;
+    background-color: cornflowerblue;
+    position: absolute;
+    top: 3px;
+    left: 25px;
+}
+.ch1{
+    border: solid 1px black;
+    height: 394px;
+    width: 115px;
+    background-color: olive;
+    top: 3px;
+    left: 150px;
+    position: absolute;
+}
+.ch2{
+    border: solid 1px black;
+    height: 394px;
+    width: 115px;
+    background-color: orchid;
+    top: 12px;
+    left: 281px;
+    position: absolute;
+}
+
+
+.ch3{
+    border: solid 1px black;
+    height: 394px;
+    width: 115px;
+    background-color: coral;
+    top: 12px;
+    left: 402px;
+    position: absolute;
+}
+.ch4{
+    background-color: darkgoldenrod;
+    border: solid 1px black;
+    height: 394px;
+    width: 115px;
+    top: 12px;
+    left: 524px;
+    position: absolute;
+}

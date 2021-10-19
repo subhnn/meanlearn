@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
+
+.rw{
+    height: 1500px;
+    width: 100%;
+    
+}
+img{
+    height: 800px;
+    width: 800px;
+}
+i{
+    margin-left: 690px;
+    margin-top: 15px;
+}
+#h1{
+ font-family: 'Ephesis', cursive;
+margin-left: 600px;
+font-size: 50px;
+margin-top: 1px;
+}
+.c1{
+    
+    height: 430px;
+    width: 275px;
+    margin-left: 70px;
+    font-family: 'Big Shoulders Display', cursive
+
+}
+.c2{
+    height: 315px;
+    width: 500px;
+    margin-left: 470px;
+    margin-top: -430px;
+    font-family: 'Big Shoulders Display', cursive
+}
+.c3{
+    height: 430px;
+    width: 275px;
+    margin-left:1110px ;
+    margin-top: -330px;
+    font-family: 'Big Shoulders Display', cursive
+
+}
+.c4{
+    height: 462px;
+    width: 833px;
+    background-color: burlywood;
+
+    margin-top: 66px;
+    margin-left: 65px;
+    
+
+
+}
+#h2{
+
+    
+    margin-top: -30px;
+    margin-left: 3px;
+    position: absolute;
+    font-family: 'Teko', sans-serif;
+
+
+}
+#img1{
+    height: 200px;
+    width: 250px;
+    margin-top: 10px;
+    margin-left: 20px;
+
+}
+#b1{
+    padding-top: 50px;
+    margin-left: 120px;
+
+}
+#img2{
+    height: 200px;
+    width: 250px;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+#img3{
+    height: 200px;
+    width: 250px;
+    margin-left: 20px;
+}
+#img4{
+    height: 200px;
+    width: 250px;
+    margin-left: 20px;
+    margin-top: 10px;
+
+
+}
+#img5{
+    height: 200px;
+    width: 250px;
+    margin-left: 16px;
+    margin-top: 10px;
+
+}
+#img6{
+    height: 200px;
+    width: 250px;
+    margin-left: 24px;
+    margin-top: 10px;
+
+}
+.c5{
+    height: 400px;
+    width: 500px;
+    margin-left: 1000px;
+    margin-top: -467px;
+    font-family: 'Teko', sans-serif;
+
+
+}
+strong{
+    font-size: 20px;
+    margin-left: 100px;
+}
+#btn{
+    margin-left: 170px;
+}
+.c6{
+    height: 100px;
+    width: 550px;
+    margin-top:  215px;
+    margin-left: -560px;
+    
+    font-family: 'Teko', sans-serif;
+
+}
+#s1{
+    font-size: 15px;
+    margin-left: 200px;
+}
+#fab1{
+    margin-left: 150px;
+    margin-top: 5px;
+
+}
+#fab2{
+    margin-top: 5px;
+    margin-left: 100px;
+}
+#fab3{
+    margin-top: 5px;
+    margin-left: -130px;
+}

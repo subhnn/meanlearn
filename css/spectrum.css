@@ -1,0 +1,128 @@
+body{
+    background-color: black;
+    
+}
+div{
+    height: 188px;
+    width: 129px;
+
+}
+#box1{
+    background-color: bisque;
+    height: 188px;
+    width: 129px;
+    margin-left: 330px;
+    margin-top: 50px;
+}
+#box2{
+background-color: blueviolet;
+height: 188px;
+width: 129px;
+margin-left: 469px;
+margin-top: -188px;
+}
+#box3{
+    background-color: brown;
+    height: 188px;
+    width: 129px;
+    margin-left: 608px;
+    margin-top: -188px;
+}
+#box4{
+    background-color: cadetblue;
+    height: 188px;
+    width: 129px;
+    margin-left: 747px;
+    margin-top: -188px;
+}
+#box5{
+    background-color: chartreuse;
+    margin-left: 886px;
+    margin-top: -188px;
+
+}
+#box7{
+    background-color: cornflowerblue;
+    margin-left: 191px;
+    margin-top: 10px;
+}
+#box8{
+    background-color: crimson;
+    margin-left: 330px;
+    margin-top: -188px;
+}
+#box9{
+    background-color: darkcyan;
+    margin-left: 469px;
+    margin-top: -188px;
+}
+#bx1{
+    background-color: darkgoldenrod;
+    margin-left: 608px;
+    margin-top: -188px;
+}
+#bx2{
+    background-color: darkgray;
+    margin-left: 747px;
+    margin-top: -188px;
+}
+#bx3{
+    background-color: darkgreen;
+    margin-left: 886px;
+    margin-top: -188px;
+}
+#bx4{
+    background-color: dimgray;
+    margin-left: 1025px;
+    margin-top: -188px;
+}
+#b1{
+    background-color: firebrick;
+    margin-left: 51px;
+    margin-top: 10px;
+}
+#b2{
+    background-color: forestgreen;
+    margin-left:191px ;
+    margin-top: -188px;
+}
+#b3{
+    background-color: fuchsia;
+    margin-left: 330px;
+    margin-top: -188px;
+}
+#b4{
+    background-color: gold;
+    margin-left: 469px;
+ margin-top: -188px;
+}
+#b5{
+    background-color: khaki;
+    margin-left: 608px;
+    margin-top: -188px;
+}
+#b6{
+    background-color: lightcyan;
+    margin-left: 747px;
+    margin-top: -188px;
+}
+#b7{
+    background-color: lightgreen;
+    margin-left: 886px;
+    margin-top: -188px;
+}
+#b8{
+    background-color: moccasin;
+    margin-left: 1025px;
+    margin-top: -188px;
+}
+#b9{
+    background-color: olive;
+    margin-left: 1164px;
+    margin-top: -188px;
+}
+
+
+    
+    
+    

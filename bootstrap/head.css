@@ -1,0 +1,20 @@
+h2{
+    color: blue;
+
+}
+h2 span:nth-child(1){
+    color: burlywood;
+}
+.section a:nth-child(1){
+    color: darkred;
+}
+ .section a:nth-child(1){
+    color: chocolate;
+
+}
+.section a:nth-child(2){
+    color: darkgray;
+}
+.section a:nth-child(3){
+    color: darkolivegreen;
+}

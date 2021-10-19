@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
+
+
+
+.qa{
+    height: 950px;
+    width: 62%;
+    margin-left: 320px;
+    margin-top: 66px;
+    border: solid 1px black;
+
+    background-image: url(./image/coffee-5009730__340.webp);
+}
+.col{
+    height: 320px;
+    width: 900px;
+    font-size: 15px;
+    color: black;
+    
+    
+}
+#a1{
+   color: rgb(180, 67, 67);
+   font-family: 'Ephesis', cursive;
+   font-size: 50px;
+   margin-top: -65px;
+   margin-left: 195px;
+
+
+}
+p{
+    margin-top: -100px;
+    margin-left: 10px;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 10px;
+    text-align: center;
+}
+#a2{
+    margin-left: 370px;
+    margin-top: -130px ;
+    font-family: 'Architects Daughter', cursive;
+    color: rgb(180, 67, 67);
+
+font-size: 20px;
+}
+#m1{
+    height: 180px;
+    width: 230px;
+    margin-top: 15px;
+    margin-left: 112px;
+}
+#b1{
+    padding-top: 100px;
+    margin-left:204px ;
+    font-size:19px;
+    font-family: 'Architects Daughter', cursive;
+
+}
+#m2{
+    height: 180px;
+    width: 230px;
+    margin-top: -84px;
+    margin-left: 112px;
+}
+.c1{
+    height:1000 px;
+    width: 900px;
+
+}
+
+
+#b2{
+    margin-left:284px ;
+    font-size:19px;
+    font-family: 'Architects Daughter', cursive;
+
+}
