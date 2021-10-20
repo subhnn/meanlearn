@@ -168,3 +168,18 @@ h3{
     width: 250px;
     margin-top: 3px;
 }
+.r7{
+    border: solid 1px black;
+    height: 500px;
+    width: 500px;
+    margin-left: 850px;
+    margin-top: 68px;
+
+}
+#f1{
+    margin-left: 5px;
+}
+#menu{
+    height: 125px;
+    width: 130px;
+}
